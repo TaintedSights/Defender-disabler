@@ -1,5 +1,5 @@
-<img src="https://img.shields.io/github/watchers/Rdimo/Defender-disabler?color=5ac18e&label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/Rdimo/Defender-disabler?color=5ac18e&label=Stars" alt="shield.png"></a>
+<img src="https://img.shields.io/github/forks/Rdimo/Defender-disabler?color=5ac18e&label=Forks" alt="shield.png"></a>
 
 #### Defender-disabler was made by
 Love ❌
