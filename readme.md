@@ -6,3 +6,5 @@ Love ❌
 code ✅
 
 #### Convert it to an exe or if they are dumb enough make them run it as .bat file and watch their whole windows defender get destroyed 
+
+> Cred goes to https://github.com/swagkarna/Defeat-Defender-V1.2
