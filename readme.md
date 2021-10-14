@@ -18,7 +18,7 @@
 </p>
 
 ---
-<div style="font-size:720">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Destroy Windows Defender that it doesn't even know it exists anymore</div>
+<div style="font-size:720">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Destroy Windows Defender so hard that it doesn't even know it exists anymore</div>
 <p align="center">
  <img src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162401.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
