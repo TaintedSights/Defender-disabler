@@ -50,7 +50,7 @@
  -  Disable Registrytools
  -  Disable Cmd
  -  Disable Run
- -  + aloot more 
+ - +aloot more 
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Compiling it into an exe
 
