@@ -19,7 +19,7 @@ code ✅
 
 ---
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Destroy Windows Defender that it doesn't even know it exists anymore 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Destroy Windows Defender that it doesn't even know it exists anymore 
 <p align="center">
  <img alt="defender" src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162401.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
