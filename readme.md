@@ -24,6 +24,34 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
+## After it got admin permission it will disable the following
+ -  PUAProtection 
+ -  Automatic Sample Submission
+ -  Windows FireWall
+ -  Windows Smart Screen (Permanently)
+ -  Windows Defender Security Center 
+ -  Defender TamperProtection
+ -  Defender Real-time protection
+ -  Defender AntiSpyware
+ -  Defender MpEnablePus
+ -  Defender BehaviorMonitoring
+ -  Defender IOAVProtection
+ -  Defender OnAccessProtection
+ -  Defender RealtimeMonitoring
+ -  Defender RoutinelyTakingAction
+ -  Defender Notification
+ -  Defender SpyNet
+ -  Disable Quickscan
+ -  System Guard Runtime Monitor Broker
+ -  Add .exe and .bat files as exclusions in defender settings
+ -  Disable UAC (Reboot Required)
+ -  Disable Ransomware Protection
+ -  Disable TaskManager
+ -  Disable Registrytools
+ -  Disable Cmd
+ -  Disable Run
+ -  + aloot more 
+
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Compiling it into an exe
 
 1. There are multiple ways of compiling a batch file
