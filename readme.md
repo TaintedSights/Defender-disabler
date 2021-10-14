@@ -12,9 +12,9 @@ code ✅
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked Defender Disabler!
 
 <p align="center">
- <img alt="Stars" src="https://reporoster.com/stars/dark/Rdimo/Defender-disabler" width="400">
+ <img alt="Stars" src="https://reporoster.com/stars/dark/Rdimo/Defender-disabler" width="300">
 &nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="Forks" src="https://reporoster.com/forks/dark/Rdimo/Defender-disabler" width="400">
+ <img alt="Forks" src="https://reporoster.com/forks/dark/Rdimo/Defender-disabler" width="300">
 </p>
   
 > Created by [Rdimo#6969](https://rdimo.github.io/CheatAway) And Insperation from https://github.com/swagkarna/Defeat-Defender-V1.2
