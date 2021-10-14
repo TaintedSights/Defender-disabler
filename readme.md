@@ -6,8 +6,8 @@
 </p>
 
 #### Defender-disabler was made by
-Love ❌    
-code ✅
+- [ ] Love   
+- [x] code
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked Defender Disabler!
 
@@ -18,12 +18,19 @@ code ✅
 </p>
 
 ---
-
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Destroy Windows Defender that it doesn't even know it exists anymore 
+<div style="font-size:720">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Destroy Windows Defender that it doesn't even know it exists anymore</div>
 <p align="center">
- <img alt="defender" src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162401.png">
+ <img src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162401.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
+
+## After Running Defender Disabler
+
+<p align="left">
+   <img src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162440.png" width=500px height=250px>
+   <img src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162325.png" height=250px>
+   <img src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162342.png" height=250px>
+ </p>
 
 > Created by [Rdimo#6969](https://rdimo.github.io/CheatAway) And Insperation from https://github.com/swagkarna/Defeat-Defender-V1.2
 
