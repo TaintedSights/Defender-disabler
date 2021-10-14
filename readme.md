@@ -6,11 +6,19 @@
 </p>
 
 #### Defender-disabler was made by
-Love ❌
+Love ❌    
 code ✅
 
----
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked Defender Disabler!
 
-#### Convert it to an exe or if they are dumb enough make them run it as .bat file and watch their whole windows defender get destroyed 
+<p align="center">
+ <img alt="Stars" src="https://reporoster.com/stars/dark/Rdimo/Defender-disabler" width="493">
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img alt="Forks" src="https://reporoster.com/forks/dark/Rdimo/Defender-disabler">
+</p>
+  
+> Created by [Rdimo#6969](https://rdimo.github.io/CheatAway) And Insperation from https://github.com/swagkarna/Defeat-Defender-V1.2
 
-> Insperation from https://github.com/swagkarna/Defeat-Defender-V1.2
+|⚠️・Defender Disabler was ofcourse made for educational purposes・⚠️|
+|-------------------------------------------------|
+By using Defender Disabler, you agree that you hold responsibility and accountability of any consequences caused by your actions
