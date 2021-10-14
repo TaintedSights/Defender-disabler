@@ -24,6 +24,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Compile it into an exe
+
 ## After Running Defender Disabler
 
 <p align="left">
