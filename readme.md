@@ -14,7 +14,7 @@ code ✅
 <p align="center">
  <img alt="Stars" src="https://reporoster.com/stars/dark/Rdimo/Defender-disabler" width="400">
 &nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="Forks" src="https://reporoster.com/forks/dark/Rdimo/Defender-disabler">
+ <img alt="Forks" src="https://reporoster.com/forks/dark/Rdimo/Defender-disabler" width="400">
 </p>
   
 > Created by [Rdimo#6969](https://rdimo.github.io/CheatAway) And Insperation from https://github.com/swagkarna/Defeat-Defender-V1.2
