@@ -30,6 +30,7 @@
    - [Converting Batch file to Exe via IExpress](https://adamtheautomator.com/bat-to-exe/#Converting_BAT_file_to_EXE_via_IExpress)
      - [Converting Batch Scripts to Exe with Bat To Exe Converter](https://adamtheautomator.com/bat-to-exe/#Converting_BAT_Scripts_to_EXE_with_Bat_To_Exe_Converter)
        - [Converting Batch Scripts to Exe via Advanced BAT to EXE Converter](https://adamtheautomator.com/bat-to-exe/#Converting_BAT_Scripts_to_EXE_via_Advanced_BAT_to_EXE_Converter)
+2. another option could be to just make them run the batch file..
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ After Running Defender Disabler
 
 <p align="left">
