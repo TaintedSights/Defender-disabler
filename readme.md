@@ -12,7 +12,7 @@ code ✅
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked Defender Disabler!
 
 <p align="center">
- <img alt="Stars" src="https://reporoster.com/stars/dark/Rdimo/Defender-disabler" width="350">
+ <img alt="Stars" src="https://reporoster.com/stars/dark/Rdimo/Defender-disabler" width="390">
 &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="Forks" src="https://reporoster.com/forks/dark/Rdimo/Defender-disabler" width="300">
 </p>
