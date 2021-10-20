@@ -51,6 +51,7 @@
  -  Disable Cmd
  -  Disable Run
  - +aloot more 
+ - additionally it will install a backdoor of your choice on their pc (add one on line 128)
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎Compiling it into an exe
 
