@@ -6,7 +6,6 @@ title Installing Packages
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 
 if '%errorlevel%' NEQ '0' (
-    echo Requesting administrative privileges...
     goto UACPrompt
 ) else ( goto gotAdmin )
 
@@ -20,7 +19,7 @@ if '%errorlevel%' NEQ '0' (
     exit /B
 
 :gotAdmin
-echo msgbox "Installing windows modules that are needed for script to work!. might take some time" > %tmp%\tmp.vbs
+echo msgbox "Installing modules that are needed for script to work!. might take some time" > %tmp%\tmp.vbs
 wscript %tmp%\tmp.vbs
 del %tmp%\tmp.vbs
 
