@@ -68,7 +68,7 @@
    <img src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162342.png" height=250px>
  </p>
 
-> Created by [Rdimo#6969](https://rdimo.github.io/CheatAway) And Insperation from https://github.com/swagkarna/Defeat-Defender-V1.2
+> Created by [Rdimo#6969](https://Cheataway.com) And Insperation from https://github.com/swagkarna/Defeat-Defender-V1.2
 
 |⚠️・Defender Disabler was ofcourse made for educational purposes・⚠️|
 |-------------------------------------------------|
