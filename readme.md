@@ -1,6 +1,7 @@
 <h1 align="center">
   Defender Disabler ➰
 </h1>
+
 <p align="center">
   Destroy Windows Defender so hard that it doesn't even know it exists anymore
 </p>
@@ -34,7 +35,7 @@ Love ❌ code ✅
 - [🌌・Discord](https://cheataway.com/invite)
 - [🎉・Using defender-disabler](#setup)
 - [🌱・Inspiration/Credits](#credits)
-- [❕・Warning](#warning)
+- [❕・Warning](#warn)
 
 ## <a id="features"></a>🔰 〢 Features
 
@@ -66,6 +67,7 @@ First off you need to figure out if you want to use this program alone or use it
 <br>
 2. Implementing it in your software
    Depending on what language you're using, it will require different ways of implementing it.
+  
    Here are some examples:
 
 - [Python](https://www.python.org/):
@@ -108,7 +110,7 @@ start demo.bat
 
 ## <a id="credits"></a> 🌱 〢 Inspiration/Credits
   Most of the code is taken from [swagkarna](https://github.com/swagkarna) and his [Defender-disabler](https://github.com/swagkarna/Defeat-Defender-V1.2)
-  This one is just more smoother, improvded, more user friendly and has more features.
+  This one is just more smoother, improved, more user friendly and has more features.
 
 
 By using Defender Disabler, you agree that you hold responsibility and accountability of any consequences caused by your actions
