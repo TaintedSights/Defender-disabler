@@ -113,4 +113,10 @@ start demo.bat
   This one is just more smoother, improved, more user friendly and has more features.
 
 
-By using Defender Disabler, you agree that you hold responsibility and accountability of any consequences caused by your actions
+  <br>
+
+<p align="center">
+  By using Defender Disabler, you agree that you hold responsibility and accountability of any consequences caused by your actions
+<br>
+  <a href=#top>Back to Top</a>
+</p>
