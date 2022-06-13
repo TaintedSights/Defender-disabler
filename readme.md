@@ -47,7 +47,7 @@ Love ❌ code ✅
 > Adds .exe and .bat files as exclusions and the startup folder as exclusions
 > Disables UAC (Reboot Required)
 > Disables TaskManager, Registrytools, cmd, run
-> + More!
+> + Loads More!
 ```
 
 ## <p align="left"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Defender-Disabler/Screenshot%202021-10-14%20162401.png">
